@@ -1,0 +1,9 @@
+#smile_0{
+    background-image: url("http://static.commentcamarche.net/www.commentcamarche.net/faq/images/5hHuBfsx-hires-s-.png");
+    height: 100px;
+    width: 100px;
+    position:relative;
+    transition: left 2s, top 2s;
+    left: 0;
+    top:0;
+}
